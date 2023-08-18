@@ -1,4 +1,4 @@
-# yuso-frontend
+# wansou-frontend
 
 ## Project setup
 ```
